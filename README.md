@@ -25,4 +25,14 @@ The second method will try to validate the codes in codes_file found line by lin
 
 Test data files: codes, formats.txt
 
-The files has a number of test cases for the API, one on each line. 
+The files has a number of test cases for the API, one on each line.
+
+Usage:
+
+Download the API script file, and place it in either;
+
+1. The main directory in which you want to use it.
+
+2. The python library directory "/lib/python2.7/site-packages". While doing this, you can import it like any other python API or library.
+
+Note: This API and its test script works fine on python version 2.7.5. 
